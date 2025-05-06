@@ -14,7 +14,7 @@ _Test Engineering | Quality Assurance | Data Analytics_
 Results-driven Reliability Test Engineer with 20+ years of experience in data storage product qualification, test automation (Python/C), and quality assurance.
 
 - Led RDT Revamp project (100% field issue detection) & NAND wear modelling (20% throughput gain).
-- Reduced field failures by 25%+ and annual returns to <3% using data-driven tools.
+- Mitigated integration failures and reduced annual returns to below 3% through data-driven tools and workload analysis
 - Experienced in Six Sigma, ISO 9001/22301, CAPA 8D, and mentoring cross-functional teams.
 
 ---
