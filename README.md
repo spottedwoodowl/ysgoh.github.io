@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Yeok Soon
-
 ## 🔧 Skills
 - Testing & Reliability
 - Product Qualification | DFMEA | Python/C Test Automation | Environmental Stress Testing
