@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Smith
+# 👋 Hi, I'm Yeok Soon
 
 ## 🔧 Skills
 - Python | JavaScript | SQL
@@ -9,5 +9,5 @@
 - [Portfolio Site](https://johnsmith.github.io/)
 
 ## 📫 Contact
-- Email: john@example.com
-- LinkedIn: [johnsmith](https://linkedin.com/in/johnsmith)
+- Email: ysgoh2000@yahoo.com
+- LinkedIn: [yeoksoon](https://www.linkedin.com/in/yeoksoon/)
