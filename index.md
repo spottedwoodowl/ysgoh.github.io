@@ -34,10 +34,6 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 
 ## 💼 Professional Experience
 
-### **Freelance Roles – ComfortDelGro Driving Centre**  
-📅 2023–2024  
-Trained learners in safe driving techniques, improving pass rates.
-
 ### **Seagate Singapore – Reliability Test Staff Engineer**  
 📅 2002–2022  
 - Designed Python-based test algorithms for 100% issue detection  
