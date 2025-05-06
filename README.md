@@ -1,8 +1,13 @@
 # 👋 Hi, I'm Yeok Soon
 
 ## 🔧 Skills
-- Python | JavaScript | SQL
-- Data Analysis | Web Development
+- Testing & Reliability
+- Product Qualification | DFMEA | Python/C Test Automation | Environmental Stress Testing
+- Data & Analytics
+- JMP | SQL | Python (Pandas, NumPy) | Excel VBA
+- Statistical Process Control (SPC) | Parametric Trend Analysis
+- Leadership & Process Improvement
+- Cross-functional Collaboration | Team Mentorship | QMS/ISO Compliance 
 
 ## 🚀 Projects
 - [Project A](https://github.com/johnsmith/project-a)
