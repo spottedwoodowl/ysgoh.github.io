@@ -8,8 +8,7 @@
 - Cross-functional Collaboration | Team Mentorship | QMS/ISO Compliance 
 
 ## 🚀 Projects
-- [Project A](https://github.com/johnsmith/project-a)
-- [Portfolio Site](https://johnsmith.github.io/)
+
 
 ## 📫 Contact
 - Email: ysgoh2000@yahoo.com
