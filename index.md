@@ -3,7 +3,7 @@ layout: home
 title: Welcome to My Portfolio
 ---
 
-# 👋 Hello! I'm YSGOH
+# 👋 Hello! I'm Goh Yeok Soon
 
 Welcome to my professional GitHub Pages site.  
 This space highlights my projects, skills, and credentials.
