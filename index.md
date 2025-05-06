@@ -46,8 +46,9 @@ Trained learners in safe driving techniques, improving pass rates.
 - Led audits and managed EMC/ESD compliance  
 - Collaborated with R&D, suppliers for MTBF/AFR improvement  
 
-[...you can expand remaining roles similarly or group under an "Earlier Experience" section]
-
+📅 Earlier Roles:
+- Lecturer (Institute of Technical Training): Trained students in electronics fundamentals
+- Test Engineering Specialist (Seagate, 1995–1998): Sustained 90%+ first-pass yield.
 ---
 
 ## 🎓 Education
