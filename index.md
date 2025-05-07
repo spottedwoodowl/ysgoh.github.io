@@ -15,7 +15,8 @@ Results-driven Reliability Test Engineer with 20+ years of experience in data st
 
 - Led RDT Revamp project (100% field issue detection) & NAND wear modelling (20% throughput gain).
 - Mitigated integration failures and reduced annual returns to below 3% through data-driven tools and workload analysis
-- Experienced in Six Sigma, ISO 9001, CAPA 8D, and Failure Analysis down to component level 
+- Experienced in Six Sigma, ISO 9001, CAPA 8D, and failure analysis down to component level.
+    
 ---
 
 ## 🛠️ Core Skills
