@@ -44,7 +44,9 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 
 📅 Earlier Roles:
 - Lecturer (Institute of Technical Training): Trained students in electronics fundamentals
-- Test Engineering Specialist (Seagate, 1995–1998): Sustained 90%+ first-pass yield.
+- Test Engineering Specialist(Seagate): Sustained >90% first-pass yield
+- Senior Technician(Agilis Communication Technologies PTE LTD): Installed/maintained RF/satellite systems, improving operational reliability.
+- Assistant Test Engineer(Archive Singapore PTE LTD): Performed failure analysis, maintained test equipment, and developed a test fixture
 ---
 
 ## 🎓 Education
