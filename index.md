@@ -70,6 +70,6 @@ _Diploma in Electronics & Computer Engineering_ (1990–1995)
 - **Languages**: Python, C, Shell  
 - **Tools**: Git/GitHub, JMP, PowerBI, SQL  
 - **Instruments**: Lecroy Oscilloscope, Sata/SAS Bus Analyzer  
-- **Certs**: ISO 9001/22301 Lead Auditor, Six Sigma Green Belt
+- **Certs**: ISO 9001/22301 , Six Sigma Green Belt
 
 ---
