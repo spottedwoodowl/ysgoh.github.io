@@ -4,10 +4,11 @@ description: Personal site powered by Jekyll | Showcasing projects, blog, and re
 url: "https://spottedwoodowl.github.io"    # Your GitHub Pages domain
 baseurl: "/ysgoh.github.io"               # Must match your repo name
 
-# Jekyll & Theme
-theme: minima
+# Jekyll Configuration
+theme: minima  # Using the standard minima theme
 plugins:
-  - jekyll-feed  # RSS feed support (included in GitHub Pages)
+  - jekyll-feed
+  - jekyll-seo-tag  # For better search engine visibility
 
 # Author Info (for SEO & footer)
 author:
@@ -23,6 +24,10 @@ defaults:
     values:
       layout: post
       author: Yeok Soon Goh
+      show_author: true
 
-# Use one of these instead:
-theme: minima  # Let GitHub Pages use its default version
+# Build Settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
