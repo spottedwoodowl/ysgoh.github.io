@@ -1,3 +1,32 @@
 title: Yeok Soon Goh's Portfolio
 description: Personal site powered by Jekyll
 theme: minima
+
+# Site Settings
+title: Yeok Soon Goh's Portfolio
+description: Personal site powered by Jekyll | Showcasing projects, blog, and resume
+url: "https://spottedwoodowl.github.io/ysgoh.github.io/"  # Replace with your GitHub Pages URL
+baseurl: ""  # Leave empty unless using a project repo (e.g., "/project")
+
+# Jekyll & Theme
+theme: minima
+plugins:
+  - jekyll-feed  # RSS feed support (included in GitHub Pages)
+
+# Author Info (for SEO & footer)
+author:
+  name: Yeok Soon Goh
+  email: ysgoh2000@yahoo.com  # Optional
+
+
+# Defaults (for posts/pages)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Yeok Soon Goh
+
+# GitHub Pages Safe Mode (required)
+remote_theme: pages-themes/minima@v3  # Ensures GitHub Pages uses minima
