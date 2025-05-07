@@ -28,5 +28,5 @@ defaults:
       layout: post
       author: Yeok Soon Goh
 
-# GitHub Pages Safe Mode (required)
-remote_theme: pages-themes/minima@v3  # Ensures GitHub Pages uses minima
+# Use one of these instead:
+theme: minima  # Let GitHub Pages use its default version
