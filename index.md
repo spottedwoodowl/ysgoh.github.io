@@ -1,4 +1,5 @@
 
+![Profile Photo]({{ site.baseurl }}/assets/images/profile.jpg){:style="width:150px; border-radius:50%;"} 
 📞 98298677 | 📧 ysgoh2000@yahoo.com | [LinkedIn](https://www.linkedin.com/in/yeoksoon/)  
 _Test Engineering | Quality Assurance | Data Analytics_
 ---
@@ -69,6 +70,6 @@ _Diploma in Electronics & Computer Engineering_ (1990–1995)
 - **Languages**: Python, C, Shell  
 - **Tools**: Git/GitHub, JMP, PowerBI, SQL  
 - **Instruments**: Lecroy Oscilloscope, Sata/SAS Bus Analyzer  
-- **Certs**: ISO 9001/22301 Lead Auditor, Six Sigma Green Belt
+- **Certs**: ISO 9001/22301 , Six Sigma Green Belt
 
 ---
