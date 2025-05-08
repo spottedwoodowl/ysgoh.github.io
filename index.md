@@ -38,10 +38,9 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 - Collaborated with R&D, suppliers for MTBF/AFR improvement  
 
 ## 🚀 RDT Revamp
-**Description:** RDT Revamp to cover CE Product.
+**Description:** RDT Revamp to enable better coverage for CE Product.
 **Key Features:**  
 - 100% field issue detection  
-- Real-world workload simulation  
 [View Live Demo](/projects/my-project/) | [Repository Link](https://github.com/spottedwoodowl/ysgoh.github.io/tree/main/projects/my-project)  
 
 ---
