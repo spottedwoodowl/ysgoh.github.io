@@ -2,7 +2,7 @@
 layout: default
 title: RDT Revamp Project
 ---
-{% include header.html %}
+
 
 # 🚀 RDT Revamp Project (Python/C)  
 **Achievements:**  
