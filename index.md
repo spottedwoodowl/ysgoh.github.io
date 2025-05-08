@@ -37,6 +37,11 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 - Led audits and managed EMC/ESD compliance  
 - Collaborated with R&D, suppliers for MTBF/AFR improvement  
 
+## 🚀 Projects
+
+### [My Project Name](https://spottedwoodowl.github.io/ysgoh.github.io/projects/my-project/
+**Description:** RDT Revamp.
+---
 📅 Earlier Roles:
 - Lecturer (Institute of Technical Training): Trained students in electronics fundamentals
 - Test Engineering Specialist(Seagate): Sustained >90% first-pass yield
