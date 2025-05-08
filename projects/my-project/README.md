@@ -6,4 +6,4 @@
   - 100% detection rate of field issues.
   - Addressed real-world application failures.
  
-![SMR](/ysgoh.github.io//my-project/assets/images/SMR_Write.jpg)
+![SMR](assets/images/SMR_Write.jpg)
