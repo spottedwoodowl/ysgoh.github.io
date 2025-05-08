@@ -1,8 +1,7 @@
 ---
-layout: page # or "page" (check your main site's _config.yml)
-title: "RDT Revamp Project"
-permalink: /projects/my-project/
-
+layout: default
+title: RDT Revamp Project
+---
 {% include header.html %}
 
 # 🚀 RDT Revamp Project (Python/C)  
