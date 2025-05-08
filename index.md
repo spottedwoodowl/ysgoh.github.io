@@ -1,8 +1,12 @@
+---
+layout: default
+---
 
 ![Profile Photo]({{ site.baseurl }}/assets/images/profile.jpg){:style="width:150px; border-radius:50%;"} 
 📞 98298677 | 📧 ysgoh2000@yahoo.com | [LinkedIn](https://www.linkedin.com/in/yeoksoon/)  
 _Test Engineering | Quality Assurance | Data Analytics_
 ---
+{% include header.html %}
 
 ## 🧭 Professional Summary
 
@@ -37,12 +41,12 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 - Led audits and managed EMC/ESD compliance  
 - Collaborated with R&D, suppliers for MTBF/AFR improvement  
 
-## 🚀 Project
-###[RDT Revamp](/projects/my-project/) 
+## 🚀 Projects
+###[RDT Revamp]
 **Description:** RDT Revamp to enable better coverage for CE Product.
 **Key Features:**  
 - 100% field issue detection  
-[Learn More](/projects/my-project/)  | [Repository Link](https://github.com/spottedwoodowl/ysgoh.github.io/tree/main/projects/my-project)  
+[Learn More]({{ site.baseurl }}/projects/my-project/)
 
 ---
 📅 Earlier Roles:
