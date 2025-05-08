@@ -37,10 +37,13 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 - Led audits and managed EMC/ESD compliance  
 - Collaborated with R&D, suppliers for MTBF/AFR improvement  
 
-## 🚀 Projects
+## 🚀 RDT Revamp
+**Description:** RDT Revamp to cover CE Product.
+**Key Features:**  
+- 100% field issue detection  
+- Real-world workload simulation  
+[View Live Demo](/projects/my-project/) | [Repository Link](https://github.com/spottedwoodowl/ysgoh.github.io/tree/main/projects/my-project)  
 
-### [My Project Name](https://spottedwoodowl.github.io/ysgoh.github.io/projects/my-project/
-**Description:** RDT Revamp.
 ---
 📅 Earlier Roles:
 - Lecturer (Institute of Technical Training): Trained students in electronics fundamentals
