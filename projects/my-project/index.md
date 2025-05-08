@@ -24,5 +24,5 @@ title: RDT Revamp Project
 </div>
 
 ---
+[← Back to Main Site]({{ site.baseurl }}/)
 
-[← Back to Main Site](/)
