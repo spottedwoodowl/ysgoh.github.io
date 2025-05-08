@@ -41,7 +41,7 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 - Led audits and managed EMC/ESD compliance  
 - Collaborated with R&D, suppliers for MTBF/AFR improvement  
 
-## 🚀 Project
+## 🚀 Projects
 ###[RDT Revamp](/projects/my-project/) 
 **Description:** RDT Revamp to enable better coverage for CE Product.
 **Key Features:**  
