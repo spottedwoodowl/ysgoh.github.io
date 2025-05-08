@@ -2,6 +2,7 @@
 layout: default  # or "page" (check your main site's _config.yml)
 title: "RDT Revamp Project"
 permalink: /projects/my-project/
+
 ---
 #### 🚀 RDT Revamp Project (Python/C)  
 **Achievements:**  
@@ -10,4 +11,8 @@ permalink: /projects/my-project/
   - 100% detection rate of field issues.
   - Addressed real-world application failures.
  
-![SMR](assets/images/SMR_Write.jpg)
+![SMR]({{ site.baseurl }}/projects/my-project/assets/images/SMR_Write.jpg)
+
+---
+
+[← Back to Main Site]({{ site.baseurl }}/)
