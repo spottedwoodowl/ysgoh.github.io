@@ -43,7 +43,7 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 
 ## 🚀 Projects
 
-###[RDT Revamp]
+###[RDT Revamp] ({{ site.baseurl }}/projects/my-project/)
 **Description:** RDT Revamp to enable better coverage for CE Product.
 **Key Features:**  
 - Revamp was required as CMR scripts no longer work on SMR HDD 
