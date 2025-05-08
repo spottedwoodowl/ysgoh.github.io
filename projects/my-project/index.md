@@ -13,12 +13,12 @@ title: RDT Revamp Project
  
 <!-- HTML block for side-by-side images -->
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/projects/my-project/assets/images/sample1.jpg" alt="SMR 1" style="width: 200px; border-radius: 10px;">
+  <figure style="text-align: center;"> 
+    <img src="{{ site.baseurl }}/projects/my-project/assets/images/sample1.jpg" alt="SMR 1" style="width: 200px;">
     <figcaption>Test Setup A</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/projects/my-project/assets/images/sample2.jpg" alt="SMR 2" style="width: 200px; border-radius: 10px;">
+    <img src="{{ site.baseurl }}/projects/my-project/assets/images/sample2.jpg" alt="SMR 2" style="width: 200px;">
     <figcaption>Test Setup B</figcaption>
   </figure>
 </div>
