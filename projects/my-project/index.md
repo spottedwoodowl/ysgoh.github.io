@@ -1,3 +1,8 @@
+---
+layout: default  # or "page" (check your main site's _config.yml)
+title: "RDT Revamp Project"
+permalink: /projects/my-project/
+---
 #### 🚀 RDT Revamp Project (Python/C)  
 **Achievements:**  
 - Led and managed the RDT Revamp project, developing test scripts (Python/C) based on real-world customer workloads for the first shingled magnetic recording HDD.  
