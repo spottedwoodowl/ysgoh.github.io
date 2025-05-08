@@ -6,4 +6,4 @@
   - 100% detection rate of field issues.
   - Addressed real-world application failures.
  
-![RDT Revamp](/ysgoh.github.io/projects/my-project/assets/images/SMR.JPG)
+![SMR](/ysgoh.github.io/projects/my-project/assets/images/SMR_Write.JPG)
