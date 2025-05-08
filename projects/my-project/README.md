@@ -6,4 +6,4 @@
   - 100% detection rate of field issues.
   - Addressed real-world application failures.
  
-  ![RDT Revamp](assets/images/flow_chart.png)
+![RDT Revamp](/ysgoh.github.io/projects/my-project/assets/images/flow_chart.png)
