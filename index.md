@@ -42,7 +42,7 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 **Description:** RDT Revamp to enable better coverage for CE Product.
 **Key Features:**  
 - 100% field issue detection  
-[Learn More](/projects/my-project/)   | [Repository Link](https://github.com/spottedwoodowl/ysgoh.github.io/tree/main/projects/my-project)  
+[Learn More](/projects/my-project/)  | [Repository Link](https://github.com/spottedwoodowl/ysgoh.github.io/tree/main/projects/my-project)  
 
 ---
 📅 Earlier Roles:
