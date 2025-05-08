@@ -11,7 +11,17 @@ title: RDT Revamp Project
   - 100% detection rate of field issues.
   - Addressed real-world application failures.
  
-![SMR]({{ site.baseurl }}/projects/my-project/assets/images/SMR_Write.jpg)
+<!-- HTML block for side-by-side images -->
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/projects/my-project/assets/images/sample1.jpg" alt="SMR 1" style="width: 200px; border-radius: 10px;">
+    <figcaption>Test Setup A</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/projects/my-project/assets/images/sample2.jpg" alt="SMR 2" style="width: 200px; border-radius: 10px;">
+    <figcaption>Test Setup B</figcaption>
+  </figure>
+</div>
 
 ---
 
