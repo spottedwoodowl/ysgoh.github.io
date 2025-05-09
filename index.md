@@ -2,11 +2,17 @@
 layout: default
 ---
 
-![Profile Photo]({{ site.baseurl }}/assets/images/profile.jpg){:style="width:150px; border-radius:50%;"} 
-| 📧 ysgoh2000@yahoo.com | [LinkedIn](https://www.linkedin.com/in/yeoksoon/)  
-_Test Engineering | Quality Assurance | Data Analytics_
----
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Profile Photo" style="width:150px; border-radius:50%;">
+</div>
 
+<p align="center">
+📧 ysgoh2000@yahoo.com | <a href="https://www.linkedin.com/in/yeoksoon/">LinkedIn</a>  
+<br>
+<em>Test Engineering | Quality Assurance | Data Analytics</em>
+</p>
+
+---
 
 ## 🧭 Professional Summary
 
