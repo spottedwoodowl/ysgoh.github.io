@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Profile Photo" style="width:150px; border-radius:50%;">
 </div>
 
