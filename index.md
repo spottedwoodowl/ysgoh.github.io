@@ -6,7 +6,7 @@ layout: default
 | 📧 ysgoh2000@yahoo.com | [LinkedIn](https://www.linkedin.com/in/yeoksoon/)  
 _Test Engineering | Quality Assurance | Data Analytics_
 ---
-{% include header.html %}
+
 
 ## 🧭 Professional Summary
 
