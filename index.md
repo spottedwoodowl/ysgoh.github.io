@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![Profile Photo]({{ site.baseurl }}/assets/images/profile.jpg){:style="width:150px; border-radius:50%;"} 
- 📧 ysgoh2000@yahoo.com | [LinkedIn](https://www.linkedin.com/in/yeoksoon/)  
+| 📧 ysgoh2000@yahoo.com | [LinkedIn](https://www.linkedin.com/in/yeoksoon/)  
 _Test Engineering | Quality Assurance | Data Analytics_
 ---
 {% include header.html %}
