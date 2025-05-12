@@ -20,11 +20,12 @@ title: RDT Revamp Project
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/projects/my-project/assets/images/devices.jpg" alt="SMR 2" style="width: 100%; max-width: 600px; border-radius: 10px;">
     <figcaption>Figure CE</figcaption>    
-  </figure>
-    <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/projects/my-project/assets/images/workload.jpg" alt="SMR 2" style="width: 100%; max-width: 600px; border-radius: 10px;">
-    <figcaption>Figure Workload</figcaption>    
-  </figure>
+ <div style="display: block; width: 100%; clear: both;">
+    <figure style="text-align: center; margin: 0 auto; display: inline-block;">
+        <img src="{{ site.baseurl }}/projects/my-project/assets/images/workload.jpg" alt="SMR 2" style="width: 100%; max-width: 600px; border-radius: 10px;">
+        <figcaption>Figure Workload</figcaption>
+    </figure>
+</div>
 </div>
 
 ---
