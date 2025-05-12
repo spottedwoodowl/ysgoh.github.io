@@ -18,8 +18,12 @@ title: RDT Revamp Project
     <figcaption>Figure A</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/projects/my-project/assets/images/sample2.jpg" alt="SMR 2" style="width: 100%; max-width: 600px; border-radius: 10px;">
-    <figcaption>Figure B</figcaption>
+    <img src="{{ site.baseurl }}/projects/my-project/assets/images/devices.jpg" alt="SMR 2" style="width: 100%; max-width: 600px; border-radius: 10px;">
+    <figcaption>Figure B</figcaption>    
+  </figure>
+    <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/projects/my-project/assets/images/workload.jpg" alt="SMR 2" style="width: 100%; max-width: 600px; border-radius: 10px;">
+    <figcaption>Figure B</figcaption>    
   </figure>
 </div>
 
