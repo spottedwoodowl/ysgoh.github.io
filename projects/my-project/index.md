@@ -26,8 +26,6 @@ title: RDT Revamp Project
         <figcaption>Figure Workload</figcaption>
     </figure>
 </div>
-</div>
-
 ---
 [← Back to Main Site]({{ site.baseurl }}/)
 
