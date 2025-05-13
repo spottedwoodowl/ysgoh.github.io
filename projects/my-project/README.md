@@ -6,4 +6,4 @@
   - 100% detection rate of field issues.
   - Addressed real-world application failures.
  
-![SMR](assets/images/SMR_Write.jpg)
+![SMR](assets/images/sample1.jpg)

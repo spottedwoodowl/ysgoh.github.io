@@ -2,11 +2,17 @@
 layout: default
 ---
 
-![Profile Photo]({{ site.baseurl }}/assets/images/profile.jpg){:style="width:150px; border-radius:50%;"} 
-📞 98298677 | 📧 ysgoh2000@yahoo.com | [LinkedIn](https://www.linkedin.com/in/yeoksoon/)  
-_Test Engineering | Quality Assurance | Data Analytics_
+<div style="text-align: left;">
+  <img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Profile Photo" style="width:150px; border-radius:50%;">
+</div>
+
+<p align="center">
+📧 ysgoh2000@yahoo.com | <a href="https://www.linkedin.com/in/yeoksoon/">LinkedIn</a>  
+<br>
+<em>Test Engineering | Quality Assurance | Data Analytics</em>
+</p>
+
 ---
-{% include header.html %}
 
 ## 🧭 Professional Summary
 
@@ -42,10 +48,14 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 - Collaborated with R&D, suppliers for MTBF/AFR improvement  
 
 ## 🚀 Projects
-###[RDT Revamp]
-**Description:** RDT Revamp to enable better coverage for CE Product.
+
+### **RDT Revamp**
+
+**Description:** RDT Revamp will enable better coverage for CE Product.  
 **Key Features:**  
+- Revamp was required as CMR scripts no longer work on SMR HDD  
 - 100% field issue detection  
+
 [Learn More]({{ site.baseurl }}/projects/my-project/)
 
 ---
