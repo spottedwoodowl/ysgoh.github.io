@@ -18,7 +18,7 @@ title: RDT Revamp Project
     <figcaption>Figure SMR</figcaption>
   </figure>
   <figure style="text-align: center; flex: 1; max-width: 600px;">
-    <img src="{{ site.baseurl }}/projects/my-project/assets/images/devices.jpg" alt="SMR 2" style="width: 100%; border-radius: 10px;">
+    <img src="{{ site.baseurl }}/projects/my-project/assets/images/devices.jpg" alt="CE" style="width: 100%; border-radius: 10px;">
     <figcaption>Figure CE</figcaption>
   </figure>
 </div>
