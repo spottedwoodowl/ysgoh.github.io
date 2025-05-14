@@ -57,12 +57,14 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 - 100% field issue detection  
 
 [Learn More]({{ site.baseurl }}/projects/my-project/)
-
+### **Root Cause Analysis**
+- Yield Improvement
+ [Learn More]({{ site.baseurl }}/projects/FA/)
+ 
 ---
 📅 Earlier Roles:
 - Lecturer (Institute of Technical Training): Trained students in electronics fundamentals
 - Test Engineering Specialist(Seagate): Sustained >90% first-pass yield
-[Learn More]({{ site.baseurl }}/projects/FA/)
 - Senior Technician(Agilis Communication Technologies PTE LTD): Installed/maintained RF/satellite systems, improving operational reliability.
 - Asst Test Engineer (Archive Singapore Pte Ltd): Performed failure analysis, maintained test equipment, and developed test fixtures.
   
