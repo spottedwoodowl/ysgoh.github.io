@@ -16,7 +16,7 @@ title: FA
 <div style="text-align: center; margin: 20px 0;">
   <figure style="display: inline-block; margin: 0;">
     <img src="{{ site.baseurl }}/projects/my-project/assets/images/30khz.jpg" alt="30 KHz" style="width: 100%; max-width: 600px; border-radius: 10px;">
-    <figcaption>Figure 30 Khz/figcaption>
+    <figcaption>Figure 30Khz</figcaption>
   </figure>
 </div>
 
