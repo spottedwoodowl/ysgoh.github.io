@@ -16,7 +16,7 @@ title: FA 30Khz Project
 <!-- Standalone centered image (workload.jpg) -->
 <div style="text-align: center; margin: 20px 0;">
   <figure style="display: inline-block; margin: 0;">
-    <img src="{{ site.baseurl }}"/projects/FA/assets/images/30Khz.jpg"  alt="30 Khz" ;">
+    <img src="{{ site.baseurl }}"/projects/FA/assets/images/30khz.jpg"  alt="30 Khz" ;">
     <figcaption>Figure 30Khz</figcaption>
   </figure>
 </div>
