@@ -1,8 +1,16 @@
+---
+layout: default
+title: FA 30Khz Project
+---
+
+
+# 🚀 FA 30Khz 
+
 **Achievements:**  
 - Resolved yield impact challenge by optimizing process parameters.
-- **Results:**  
-- Reduced interference by stabilizing 30 kHz resonance.  
-- Implemented an optimized write current profile, cutting write clearance
+**Results:**  
+ - Reduced interference by stabilizing 30 kHz resonance.  
+ - Implemented an optimized write current profile, cutting write clearance
  
 
 <!-- Standalone centered image (workload.jpg) -->
