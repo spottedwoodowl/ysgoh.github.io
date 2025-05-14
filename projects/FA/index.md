@@ -15,8 +15,8 @@ title: FA
 <!-- Standalone centered image (workload.jpg) -->
 <div style="text-align: center; margin: 20px 0;">
   <figure style="display: inline-block; margin: 0;">
-    <img src="{{ site.baseurl }}/projects/my-project/assets/images/3khz.jpg" alt="3 KHz" style="width: 100%; max-width: 600px; border-radius: 10px;">
-    <figcaption>Figure 3 Khz/figcaption>
+    <img src="{{ site.baseurl }}/projects/my-project/assets/images/30khz.jpg" alt="30 KHz" style="width: 100%; max-width: 600px; border-radius: 10px;">
+    <figcaption>Figure 30 Khz/figcaption>
   </figure>
 </div>
 
