@@ -57,8 +57,11 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 - 100% field issue detection  
 
 [Learn More]({{ site.baseurl }}/projects/my-project/)
-### **Root Cause Analysis**
-- Yield Improvement
+### **Electrical FA**
+
+**Description:**  Yield Improvement
+**Key Features:**
+- Root cause analysis and corrective action
   
  [Learn More]({{ site.baseurl }}/projects/FA/)
  
@@ -74,10 +77,10 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 ## 🎓 Education
 
 **National University of Singapore**  
-_B.Tech (Electronics Engineering), Second Class Honours_ (1997–2001)
+_B.Tech (Electronics Engineering), Second Class Honours_ (2001)
 
 **Ngee Ann Polytechnic**  
-_Diploma in Electronics & Computer Engineering_ (1990–1995)
+_Diploma in Electronics & Computer Engineering_ (1995)
 
 ---
 
