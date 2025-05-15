@@ -59,7 +59,7 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 [Learn More]({{ site.baseurl }}/projects/my-project/)
 ### **Electrical FA**
 
-**Description:**  Yield Improvement
+**Description:**  Yield Improvement.
 **Key Features:**
 - Root cause analysis and corrective action
   
