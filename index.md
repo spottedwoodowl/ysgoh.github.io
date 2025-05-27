@@ -18,7 +18,7 @@ layout: default
 
 Results-driven Reliability Test Engineer with 20+ years of experience in data storage product qualification, test automation (Python/C), and quality assurance.
 
-- Led RDT Revamp project (100% field issue detection) & NAND wear modelling (20% throughput gain).
+- Led RDT (Reliability Demonstration Test) Revamp project (100% field issue detection) & NAND wear modelling (20% throughput gain).
 - Mitigated integration failures and reduced annual returns to below 3% through data-driven tools and workload analysis
 - Experienced in Six Sigma, ISO 9001, CAPA 8D, and failure analysis down to component level.
     
@@ -45,7 +45,7 @@ QMS/ISO | Six Sigma | Team Mentorship | Root Cause Analysis
 - Simulated NAND workloads (20% throughput gain)  
 - Conducted CAPA 8D analysis and test automation  
 - Led audits and managed EMC/ESD compliance  
-- Collaborated with R&D, suppliers for MTBF/AFR improvement  
+- Collaborated with R&D and suppliers for MTBF/AFR improvement  
 
 ## 🚀 Projects
 
@@ -98,7 +98,7 @@ _Diploma in Electronics & Computer Engineering_ (1995)
 
 - **Languages**: Python, C, Shell  
 - **Tools**: Git/GitHub, JMP, PowerBI, SQL  
-- **Instruments**: Lecroy Oscilloscope, Sata/SAS Bus Analyzer  
-- **Certs**: ISO 9001/22301 , Six Sigma Green Belt
+- **Instruments**: Lecroy Oscilloscope, SATA/SAS Bus Analyzer, Spectrum Analyzer, DAQ
+- **Certs**: ISO 9001/22301, Six Sigma Green Belt
 
 ---
