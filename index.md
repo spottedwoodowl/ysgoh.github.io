@@ -102,3 +102,7 @@ _Diploma in Electronics & Computer Engineering_ (1995)
 - **Certs**: ISO 9001/22301, Six Sigma Green Belt
 
 ---
+
+## Upskills
+
+- CompTIA, Cybersecurity , AI- LLM to keep in space digital age
