@@ -103,7 +103,7 @@ _Diploma in Electronics & Computer Engineering_ (1995)
 
 ---
 
-## Upskills
+## Upskill
 
 - CompTIA, Cybersecurity to keep in space with digitalization.
 - AI and RPA to streamline repetitive tasks.
