@@ -105,4 +105,7 @@ _Diploma in Electronics & Computer Engineering_ (1995)
 
 ## Upskills
 
-- CompTIA, Cybersecurity , AI- LLM to keep in space digital age
+- CompTIA, Cybersecurity to keep in space with digitalization.
+- AI and RPA to streamline repetitive tasks.
+
+--- 
